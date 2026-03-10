@@ -26,5 +26,5 @@ I’m an Information Technology student at the Federal University of Mato Grosso
 
 ## :telephone: Contact
 
-[![LinkedIn](https://www.linkedin.com/in/maria-yasmim-sim%C3%A3o-8b5178222/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-yasmim-sim%C3%A3o-8b5178222/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmimoliveirasimao@gmail.com)
