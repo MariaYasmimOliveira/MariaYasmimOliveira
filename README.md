@@ -1,16 +1,30 @@
-## Olá! Eu sou a Maria Yasmim.
-- 🔭 Estou estudando Java Script;
-- 🌱 Estou começando a criar sites com HTML e CSS
-- 😄 Pronouns: Ela/Dela
+ ## I'm Maria Yasmim Simão!
+
+I’m an Information Technology student at the Federal University of Mato Grosso do Sul (UFMS) with an interest in databases and a passion for technology. I’m constantly learning and exploring programming and the fundamentals of computing. On this GitHub, I share projects, experiments, and studies that are part of my journey to grow in the tech field and continuously improve as a developer.
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaYasmimOliveira&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaYasmimOliveira&hide_progress=true&show_icons=true&theme=transparent" />
-
-<div style= "dysplay: inline-block; text-align= center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api?username=MariaYasmimOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-coral-xi-32.vercel.app/api/top-langs/?username=MariaYasmimOliveira&layout=compact&langs_count=7&include_all_commits=true&theme=dark"/>
 </div>
-<div style= "dysplay: inline-block; text-align= center">
-  <img align="right" alt="gifyas" height= "200" width= "200" src="https://cdn.discordapp.com/attachments/1411015150042878014/1411015324244906098/Design_sem_nome.gif?ex=68b31dec&is=68b1cc6c&hm=da9bdc20d68e672f688613b8157c73343426b589ec93cb7794f17b4a7d8e1bac"/>          
-</div>
+
+## :dart: Skills/Tools
+
+#### :computer: Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### :gear: Back End Development
+![Python](https://img.shields.io/badge/python-%23000D28.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234F5BDB.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### :wrench: Version Control
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## :telephone: Contact
+
+[![LinkedIn](https://www.linkedin.com/in/maria-yasmim-sim%C3%A3o-8b5178222/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmimoliveirasimao@gmail.com)
